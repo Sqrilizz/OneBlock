@@ -167,7 +167,7 @@ Create custom default islands (7x12x7 area):
 ![Saves a copy of your island.](https://cdn.modrinth.com/data/cached_images/9130fc987296b722efa24636730613a9dee324ec.jpeg)
 
 # 📈 Stats
-![https://bstats.org/signatures/bukkit/Oneblock.svg](https://bstats.org/signatures/bukkit/Oneblock.svg)
+![https://bstats.org/plugin/bukkit/Sqrilizz%20Reports/31222.svg](https://bstats.org/plugin/bukkit/Sqrilizz%20Reports/31222.svg)
 
 # 🛠️ Building from source
 
